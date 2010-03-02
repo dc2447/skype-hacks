@@ -1,0 +1,12 @@
+# some simple skype hacks for Linux systems
+
+# Requirements
+
+* python-skype
+* running skype instance 
+
+# Notes
+
+When running any API script for the first time you will need to authorize the connection.
+
+dc2447@gmail.com
